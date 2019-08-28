@@ -1,5 +1,6 @@
 # kakao_arena
 code for kakao arena
+[https://arena.kakao.com/forum/topics/166]
 
 ## 환경 설정
 - 용량 문제로 데이터가 업로드되지 못하였습니다. 따라서 아래 2가지의 환경설정을 부탁드립니다.
